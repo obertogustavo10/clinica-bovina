@@ -1,0 +1,484 @@
+{
+  "header": {
+    "apiVersion": null,
+    "operationID": "21312312312321321321323",
+    "statusCode": "200",
+    "statusMessage": "OK",
+    "successResponse": "Operación ejecutada correctamente",
+    "errorResponse": null
+  },
+  "skills": [
+    {
+      "id": "1",
+      "title": "Las personas",
+      "text": "Brindar atención genuina a las personas es un valor central para nosotros. Contamos con un equipo increíble, con colaboradores especiales que están comprometidos con el propósito."
+    },
+    {
+      "id": "2",
+      "title": "Centrarse en los resultados del cliente",
+      "text": "A través de los resultados reales de nuestros clientes, somos capaces de cumplir nuestra misión."
+    },
+    {
+      "id": "3",
+      "title": "Compromiso de aplicabilidad",
+      "text": "Para que la transformación suceda en el proceso educativo, es necesario que quienes están aprendiendo apliquen y se apropien del conocimiento."
+    },
+    {
+      "id": "4",
+      "title": "Apreciación de la ciencia",
+      "text": "No llevamos nuestra opinión a los clientes, sino el conocimiento científico. Estamos basados ​​en la ciencia en todo lo que hacemos."
+    },
+    {
+      "id": "5",
+      "title": "Cultura de datos para la toma de decisiones",
+      "text": "La cultura de mirar datos confiables nos brinda muchas más posibilidades de tomar decisiones asertivas. Son estos cimientos los que conducen al desarrollo real del sector agropecuario en Venezuela."
+    }
+  ],
+  "counter": [
+    {
+      "id": "1",
+      "title": "Clientes",
+      "start": "0",
+      "end": "450"
+    },
+    {
+      "id": "2",
+      "title": "Animales Atendidos",
+      "start": "0",
+      "end": "11536"
+    },
+    {
+      "id": "3",
+      "title": "Estudiantes",
+      "start": "0",
+      "end": "654"
+    },
+    {
+      "id": "4",
+      "title": "Años de Experiencia",
+      "start": "0",
+      "end": "11"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "1",
+      "description": "Las clases superaron mis expectativas ampliamente, la buena onda y las explicaciones fueron nada que ver a lo que yo pensaba",
+      "name": "Alejandro Pacheco",
+      "profile": "AP",
+      "jobTitle": "Estudiante"
+    },
+    {
+      "id": "2",
+      "description": "Sin duda fue una gran experiencia que me permitió adquirir nuevos conocimientos y seguir capacitándome. No quiero dejar de agradecer al profesor Juan .",
+      "name": "katy Villegas",
+      "profile": "KV",
+      "jobTitle": "Estudiante"
+    },
+    {
+      "id": "3",
+      "description": "Que las ganas de seguir aprendiendo nunca paren... Muy agradecido por todo lo aprendido y feliz por todo el material informativo suministrado. .",
+      "name": "Yonaiker Guerrero",
+      "profile": "YG",
+      "jobTitle": "Estudiante"
+    }
+  ],
+  "preguntasFrecuentes": [
+    {
+      "id": "0",
+      "description": "En Clinica Bovina puedes elegir la modalidad del curso que mejor se adapte a tus necesidades. Actualmente puedes cursar:",
+      "description1": "a) Online en vivo: vas a tener 2 clases en vivo por semana.",
+      "description2": "b) Modalidad ClinicaFlex: vas a tener 1 clase en vivo y 1 online, desafíos y actividades. Por el momento, esta modalidad está disponible solo para algunos cursos.",
+      "title": "¿Cómo es la modalidad de los cursos?"
+    },
+    {
+      "id": "1",
+      "description": "Puedes pagar en bolivares o en dolares, mediante trasferencia bancaria, pago movil, zelle, BOA. Para mas informacion visitar la pagina contacto y dejas su consulta.",
+      "title": "¿Cuáles son los medios de pago?"
+    },
+    {
+      "id": "2",
+      "description": "Los programas de cada uno de los cursos de Clinica bovina son creados por expertos calificados en la materias respectivas siguiendo los lineamentos y parametros del Colegio Veterinario. Esto nos permite tener nuestros contenidos actualizados y avalados por referentes de la industria.",
+      "title": "¿Qué validez tienen los cursos de Clinica Bovina?"
+    }
+  ],
+  "cursos": [
+    {
+      "id": "0",
+      "duracion": "6 semanas",
+      "clases": "2 clases semanales de 2h",
+      "modalidad": "Online en vivo",
+      "precioStandar": "45",
+      "precioFinal": "25",
+      "titulo": "Salud Podal",
+      "sobreElCurso": [
+        {
+          "text": "En este curso aprenderás a utilizar las herramientas profesionales más destacadas del universo gráfico: Adobe Illustrator y Adobe Photoshop. Diseñarás el branding de tu propia marca, crearás piezas gráficas para redes sociales, y podrás comunicar tanto ideas como conceptos mediante el uso del lenguaje visual.",
+          "title": "Introduccion",
+          "id": "0"
+        },
+        {
+          "text": "Para este curso no es necesario tener conocimientos previos. Para mejorar tu experiencia de cursada, te aconsejamos contar con:",
+          "title": "Requisitos",
+          "id": "1",
+          "text1": "Con una PC / lapto / Tablet / Telefono Inteligente con capacidades minimas que soporten la app de zoom.",
+          "text2": "Una red de internet estable al momento de la clase para aprovecharla al maximo."
+        },
+        {
+          "url": "https://marketplace.canva.com/EAEeLSUVk0Y/1/0/1600w/canva-rosa-y-azul-bordes-curso-certificado-TmtB56BWAz4.jpg",
+          "title": "Certificado",
+          "id": "2"
+        },
+        {
+          "text": "Nuestros certificados estan avalados por el Colegio Veterinario de Venezuela y por los medicos veterinarios Juan Gutierrez y Argenis Parra",
+          "title": "¿Quien nos Valida?",
+          "id": "3"
+        }
+      ],
+      "programaDescargable": "https://drive.google.com/file/d/1_6YnTFokHiDVacE0Lha4qHHWqkdO_K_0/view"
+    },
+    {
+      "id": "1",
+      "duracion": "6 semanas",
+      "clases": "2 clases semanales de 2h",
+      "modalidad": "Online en vivo",
+      "precioStandar": "45",
+      "precioFinal": "25",
+      "titulo": "Salud de la ubre y calidad de la leche",
+      "sobreElCurso": [
+        {
+          "text": "En este curso aprenderás a utilizar las herramientas profesionales más destacadas del universo gráfico: Adobe Illustrator y Adobe Photoshop. Diseñarás el branding de tu propia marca, crearás piezas gráficas para redes sociales, y podrás comunicar tanto ideas como conceptos mediante el uso del lenguaje visual.",
+          "title": "Introduccion",
+          "id": "0"
+        },
+        {
+          "text": "Para este curso no es necesario tener conocimientos previos. Para mejorar tu experiencia de cursada, te aconsejamos contar con:",
+          "title": "Requisitos",
+          "id": "1",
+          "text1": "Con una PC / lapto / Tablet / Telefono Inteligente con capacidades minimas que soporten la app de zoom.",
+          "text2": "Una red de internet estable al momento de la clase para aprovecharla al maximo."
+        },
+        {
+          "url": "https://marketplace.canva.com/EAEeLSUVk0Y/1/0/1600w/canva-rosa-y-azul-bordes-curso-certificado-TmtB56BWAz4.jpg",
+          "title": "Certificado",
+          "id": "2"
+        },
+        {
+          "text": "Nuestros certificados estan avalados por el Colegio Veterinario de Venezuela y por los medicos veterinarios Juan Gutierrez y Argenis Parra",
+          "title": "¿Quien nos Valida?",
+          "id": "3"
+        }
+      ],
+      "programaDescargable": "https://drive.google.com/file/d/1_6YnTFokHiDVacE0Lha4qHHWqkdO_K_0/view"
+    },
+    {
+      "id": "2",
+      "duracion": "6 semanas",
+      "clases": "2 clases semanales de 2h",
+      "modalidad": "Online en vivo",
+      "precioStandar": "45",
+      "precioFinal": "25",
+      "titulo": "Medicina preventiva",
+      "sobreElCurso": [
+        {
+          "text": "En este curso aprenderás a utilizar las herramientas profesionales más destacadas del universo gráfico: Adobe Illustrator y Adobe Photoshop. Diseñarás el branding de tu propia marca, crearás piezas gráficas para redes sociales, y podrás comunicar tanto ideas como conceptos mediante el uso del lenguaje visual.",
+          "title": "Introduccion",
+          "id": "0"
+        },
+        {
+          "text": "Para este curso no es necesario tener conocimientos previos. Para mejorar tu experiencia de cursada, te aconsejamos contar con:",
+          "title": "Requisitos",
+          "id": "1",
+          "text1": "Con una PC / lapto / Tablet / Telefono Inteligente con capacidades minimas que soporten la app de zoom.",
+          "text2": "Una red de internet estable al momento de la clase para aprovecharla al maximo."
+        },
+        {
+          "url": "https://marketplace.canva.com/EAEeLSUVk0Y/1/0/1600w/canva-rosa-y-azul-bordes-curso-certificado-TmtB56BWAz4.jpg",
+          "title": "Certificado",
+          "id": "2"
+        },
+        {
+          "text": "Nuestros certificados estan avalados por el Colegio Veterinario de Venezuela y por los medicos veterinarios Juan Gutierrez y Argenis Parra",
+          "title": "¿Quien nos Valida?",
+          "id": "3"
+        }
+      ],
+      "programaDescargable": "https://drive.google.com/file/d/1_6YnTFokHiDVacE0Lha4qHHWqkdO_K_0/view"
+    },
+    {
+      "id": "3",
+      "duracion": "6 semanas",
+      "clases": "2 clases semanales de 2h",
+      "modalidad": "Online en vivo",
+      "precioStandar": "45",
+      "precioFinal": "25",
+      "titulo": "Salud reproductiva",
+      "sobreElCurso": [
+        {
+          "text": "En este curso aprenderás a utilizar las herramientas profesionales más destacadas del universo gráfico: Adobe Illustrator y Adobe Photoshop. Diseñarás el branding de tu propia marca, crearás piezas gráficas para redes sociales, y podrás comunicar tanto ideas como conceptos mediante el uso del lenguaje visual.",
+          "title": "Introduccion",
+          "id": "0"
+        },
+        {
+          "text": "Para este curso no es necesario tener conocimientos previos. Para mejorar tu experiencia de cursada, te aconsejamos contar con:",
+          "title": "Requisitos",
+          "id": "1",
+          "text1": "Con una PC / lapto / Tablet / Telefono Inteligente con capacidades minimas que soporten la app de zoom.",
+          "text2": "Una red de internet estable al momento de la clase para aprovecharla al maximo."
+        },
+        {
+          "url": "https://marketplace.canva.com/EAEeLSUVk0Y/1/0/1600w/canva-rosa-y-azul-bordes-curso-certificado-TmtB56BWAz4.jpg",
+          "title": "Certificado",
+          "id": "2"
+        },
+        {
+          "text": "Nuestros certificados estan avalados por el Colegio Veterinario de Venezuela y por los medicos veterinarios Juan Gutierrez y Argenis Parra",
+          "title": "¿Quien nos Valida?",
+          "id": "3"
+        }
+      ],
+      "programaDescargable": "https://drive.google.com/file/d/1_6YnTFokHiDVacE0Lha4qHHWqkdO_K_0/view"
+    },
+    {
+      "id": "4",
+      "duracion": "6 semanas",
+      "clases": "2 clases semanales de 2h",
+      "modalidad": "Online en vivo",
+      "precioStandar": "45",
+      "precioFinal": "25",
+      "titulo": "Electivas de Emengencias",
+      "sobreElCurso": [
+        {
+          "text": "En este curso aprenderás a utilizar las herramientas profesionales más destacadas del universo gráfico: Adobe Illustrator y Adobe Photoshop. Diseñarás el branding de tu propia marca, crearás piezas gráficas para redes sociales, y podrás comunicar tanto ideas como conceptos mediante el uso del lenguaje visual.",
+          "title": "Introduccion",
+          "id": "0"
+        },
+        {
+          "text": "Para este curso no es necesario tener conocimientos previos. Para mejorar tu experiencia de cursada, te aconsejamos contar con:",
+          "title": "Requisitos",
+          "id": "1",
+          "text1": "Con una PC / lapto / Tablet / Telefono Inteligente con capacidades minimas que soporten la app de zoom.",
+          "text2": "Una red de internet estable al momento de la clase para aprovecharla al maximo."
+        },
+        {
+          "url": "https://marketplace.canva.com/EAEeLSUVk0Y/1/0/1600w/canva-rosa-y-azul-bordes-curso-certificado-TmtB56BWAz4.jpg",
+          "title": "Certificado",
+          "id": "2"
+        },
+        {
+          "text": "Nuestros certificados estan avalados por el Colegio Veterinario de Venezuela y por los medicos veterinarios Juan Gutierrez y Argenis Parra",
+          "title": "¿Quien nos Valida?",
+          "id": "3"
+        }
+      ],
+      "programaDescargable": "https://drive.google.com/file/d/1_6YnTFokHiDVacE0Lha4qHHWqkdO_K_0/view"
+    }
+  ],
+  "productos": [
+    {
+      "id": "0",
+      "img": "./src/assets/productos/bovifor_vaca.jpg",
+      "name": "Bovifort Sol Inyect",
+      "price": "39"
+    },
+    {
+      "id": "1",
+      "img": "./src/assets/productos/bovilis_vaca.jpg",
+      "name": "Brucella Abortus RB51",
+      "price": "16.50"
+    },
+    {
+      "id": "02",
+      "img": "./src/assets/productos/brecelei_vaca.jpg",
+      "name": "Brucelmiq - 10D",
+      "price": "24.20"
+    },
+    {
+      "id": "3",
+      "img": "./src/assets/productos/calbos_vaca.jpg",
+      "name": "Complex Sel - 250Ml",
+      "price": "31"
+    },
+    {
+      "id": "4",
+      "img": "./src/assets/productos/calcio_vaca.jpg",
+      "name": "Calciomic Sol Iny",
+      "price": "17"
+    },
+    {
+      "id": "5",
+      "img": "./src/assets/productos/CALFOS2_vaxa.jpg",
+      "name": "Calfoz Sol Inyec",
+      "price": "11.50"
+    },
+    {
+      "id": "6",
+      "img": "./src/assets/productos/bovifor_vaca.jpg",
+      "name": "Bovifort Sol Inyect",
+      "price": "39"
+    },
+    {
+      "id": "7",
+      "img": "./src/assets/productos/bovilis_vaca.jpg",
+      "name": "Brucella Abortus RB51",
+      "price": "16.50"
+    },
+    {
+      "id": "8",
+      "img": "./src/assets/productos/brecelei_vaca.jpg",
+      "name": "Brucelmiq - 10D",
+      "price": "24.20"
+    },
+    {
+      "id": "9",
+      "img": "./src/assets/productos/calbos_vaca.jpg",
+      "name": "Complex Sel - 250Ml",
+      "price": "31"
+    },
+    {
+      "id": "10",
+      "img": "./src/assets/productos/calcio_vaca.jpg",
+      "name": "Calciomic Sol Iny",
+      "price": "17"
+    },
+    {
+      "id": "11",
+      "img": "./src/assets/productos/CALFOS2_vaxa.jpg",
+      "name": "Calfoz Sol Inyec",
+      "price": "11.50"
+    },
+    {
+      "id": "12",
+      "img": "./src/assets/productos/bovifor_vaca.jpg",
+      "name": "Bovifort Sol Inyect",
+      "price": "39"
+    }
+  ],
+  "estados": [
+    {
+      "id": "0",
+      "estado": "Caracas capital",
+      "codigo": "VE-A"
+    },
+    {
+      "id": "1",
+      "estado": "Anzoátegui",
+      "codigo": "VE-B"
+    },
+    {
+      "id": "2",
+      "estado": "Apure",
+      "codigo": "VE-C"
+    },
+    {
+      "id": "3",
+      "estado": "Aragua",
+      "codigo": "VE-D"
+    },
+    {
+      "id": "4",
+      "estado": "Barinas",
+      "codigo": "VE-E"
+    },
+    {
+      "id": "5",
+      "estado": "Bolívar",
+      "codigo": "VE-F"
+    },
+    {
+      "id": "6",
+      "estado": "Carabobo",
+      "codigo": "VE-G"
+    },
+    {
+      "id": "7",
+      "estado": "Cojedes",
+      "codigo": "VE-H"
+    },
+    {
+      "id": "8",
+      "estado": "Falcón",
+      "codigo": "VE-I"
+    },
+    {
+      "id": "9",
+      "estado": "Guárico",
+      "codigo": "VE-J"
+    },
+    {
+      "id": "10",
+      "estado": "Lara",
+      "codigo": "VE-K"
+    },
+    {
+      "id": "11",
+      "estado": "Mérida",
+      "codigo": "VE-L"
+    },
+    {
+      "id": "12",
+      "estado": "Miranda",
+      "codigo": "VE-M"
+    },
+    {
+      "id": "13",
+      "estado": "Monagas",
+      "codigo": "VE-N"
+    },
+    {
+      "id": "13",
+      "estado": "Nueva Esparta",
+      "codigo": "VE-O"
+    },
+    {
+      "id": "13",
+      "estado": "Portuguesa",
+      "codigo": "VE-P"
+    },
+    {
+      "id": "14",
+      "estado": "Sucre",
+      "codigo": "VE-R"
+    },
+    {
+      "id": "15",
+      "estado": "Táchira",
+      "codigo": "VE-S"
+    },
+    {
+      "id": "16",
+      "estado": "Trujillo",
+      "codigo": "VE-T"
+    },
+    {
+      "id": "17",
+      "estado": "Yaracuy",
+      "codigo": "VE-U"
+    },
+    {
+      "id": "18",
+      "estado": "Zulia",
+      "codigo": "VE-V"
+    },
+    {
+      "id": "19",
+      "estado": "Dependencias federales",
+      "codigo": "VE-W"
+    },
+    {
+      "id": "20",
+      "estado": "La Guaira (Vargas)",
+      "codigo": "VE-X"
+    },
+    {
+      "id": "21",
+      "estado": "Delta Amacuro",
+      "codigo": "VE-Y"
+    },
+    {
+      "id": "22",
+      "estado": "Amazonas",
+      "codigo": "VE-Z"
+    }
+  ]
+}
