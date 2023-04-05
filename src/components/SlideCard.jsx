@@ -66,7 +66,7 @@ export default () => {
         <SplideSlide key={index}>
           <Cards
             key={index}
-            img={product.img}
+            img={Img}
             title={product.price}
             text={product.name}
           />
