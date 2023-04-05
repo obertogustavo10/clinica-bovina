@@ -122,11 +122,11 @@ export default function FormPay() {
       event.stopPropagation();
     }
 
-    let dataPost = {};
+/*     let dataPost = {};
     const fields = Object.fromEntries(new window.FormData(event.target));
     dataPost.formulario = fields;
     dataPost.curso = api;
-    console.log(dataPost);
+    console.log(dataPost); */
 
     setValidated(true);
   };
@@ -153,12 +153,12 @@ export default function FormPay() {
                 Nombre ó Razón Social *
               </StyleLabel>
               <Form.Control
-                onChange={(e) => (formulario.name = e.target.value)}
+/*                 onChange={(e) => (formulario.name = e.target.value)} */
                 required
                 type="text"
                 name="nombre"
                 placeholder="Ej: Pablo Perez / CLinicaBovina.SRL"
-                value={formulario.name}
+/*                 value={formulario.name} */
               />
             </Form.Group>
             <Form.Group>
@@ -166,12 +166,12 @@ export default function FormPay() {
                 Dirección Fiscal *
               </StyleLabel>
               <Form.Control
-                onChange={(e) => (formulario.direccion = event.target.value)}
+/*                 onChange={(e) => (formulario.direccion = event.target.value)} */
                 required
                 type="text"
                 name="direccion"
                 placeholder="Ej: Av Bolivar 454, entre calle independencia"
-                value={formulario.direccion}
+/*                 value={formulario.direccion} */
               />
             </Form.Group>
             <Form.Group controlId="validationCustom03">
@@ -181,8 +181,8 @@ export default function FormPay() {
                 name="documento"
                 type="number"
                 placeholder="Ingrese C.I ó RIF agregando su denominación Ej: J-000000"
-                onChange={(e) => (formulario.documento = e.target.value)}
-                value={formulario.documento}
+/*                 onChange={(e) => (formulario.documento = e.target.value)}
+                value={formulario.documento} */
               />
             </Form.Group>
             <Form.Group controlId="validationCustom04">
@@ -194,8 +194,8 @@ export default function FormPay() {
                 type="text"
                 name="ciudad"
                 placeholder="Ciudad en la que te encuentras"
-                onChange={(e) => (formulario.ciudad = e.target.value)}
-                value={formulario.ciudad}
+/*                 onChange={(e) => (formulario.ciudad = e.target.value)}
+                value={formulario.ciudad} */
               />
             </Form.Group>
             <Form.Group controlId="validationCustom05">
@@ -204,8 +204,8 @@ export default function FormPay() {
                 aria-label="Default select example"
                 required
                 name="estado"
-                onChange={(e) => (formulario.estado = e.target.value)}
-                value={formulario.estado}
+/*                 onChange={(e) => (formulario.estado = e.target.value)}
+                value={formulario.estado} */
               >
                 {provincias.map((element, index) => (
                   <option key={index} value={element.codigo}>
@@ -223,8 +223,8 @@ export default function FormPay() {
                 type="tel"
                 name="telefono"
                 placeholder="Ej: 0258 2525-242"
-                onChange={(e) => (formulario.telefono = e.target.value)}
-                value={formulario.telefono}
+/*                 onChange={(e) => (formulario.telefono = e.target.value)}
+                value={formulario.telefono} */
               />
             </Form.Group>
             <Form.Group controlId="validationCustom07">
@@ -247,8 +247,8 @@ export default function FormPay() {
                 type="text"
                 name="nameUser"
                 placeholder="Ej: pablo29"
-                onChange={(e) => (formulario.nameUser = e.target.value)}
-                value={formulario.nameUser}
+/*                 onChange={(e) => (formulario.nameUser = e.target.value)}
+                value={formulario.nameUser} */
               />
             </Form.Group>
             <Form.Group controlId="validationCustom09">
@@ -258,8 +258,8 @@ export default function FormPay() {
                 type="password"
                 name="clave"
                 placeholder="********"
-                onChange={(e) => (formulario.clave = e.target.value)}
-                value={formulario.clave}
+/*                 onChange={(e) => (formulario.clave = e.target.value)}
+                value={formulario.clave} */
               />
             </Form.Group>
             <Form.Group controlId="validationCustom010">

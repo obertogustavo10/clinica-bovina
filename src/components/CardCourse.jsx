@@ -31,6 +31,10 @@ export default function CardCourse({
     margin-top: 30px;
     border-radius: 5%;
     background: #f5f5f4;
+    @media (max-width: 576px) {
+      width: 320px;
+    height: 480px;
+    }
   `;
   const StyleCardBody = styled(Card.Body)`
     text-align: left;
@@ -49,12 +53,18 @@ export default function CardCourse({
     border-top-right-radius: 14px;
     padding: 5px;
     font-size: ${(props) => (props.variant === "center" ? "" : "40px")};
+    @media (max-width: 576px) {
+      font-size: ${(props) => (props.variant === "center" ? "" : "30px")};
+    }
   `;
   const StyleCardTitleGreen = styled(Card.Text)`
     text-align: left;
   `;
   const StyleDiv = styled.div`
     padding: 40px;
+    @media (max-width: 576px) {
+      padding: 30px;
+    }
   `;
   const StyleCardText = styled(Card.Text)`
     text-align: ${(props) => (props.variant === "right" ? "center" : "left")};
@@ -65,6 +75,9 @@ export default function CardCourse({
       props.variant === "right" ? "rgba(0, 0, 0, 0.2)" : ""};
     width: ${(props) => (props.variant === "right" ? "8rem" : "")};
     border-radius: ${(props) => (props.variant === "right" ? "60px" : "")};
+    @media (max-width: 576px) {
+      font-size: ${(props) => (props.variant === "price" ? "20px" : "15px")};
+    }
   `;
   return (
     <StyleCard>

@@ -277,13 +277,13 @@
   "productos": [
     {
       "id": "0",
-      "img": "./src/assets/productos/bovifor_vaca.jpg",
+      "img": "./public/productos/bovifor_vaca.jpg",
       "name": "Bovifort Sol Inyect",
       "price": "39"
     },
     {
       "id": "1",
-      "img": "./src/assets/productos/bovilis_vaca.jpg",
+      "img": "./public/productos/bovilis_vaca.jpg",
       "name": "Brucella Abortus RB51",
       "price": "16.50"
     },
@@ -295,61 +295,61 @@
     },
     {
       "id": "3",
-      "img": "./src/assets/productos/calbos_vaca.jpg",
+      "img": "./public/productos/calbos_vaca.jpg",
       "name": "Complex Sel - 250Ml",
       "price": "31"
     },
     {
       "id": "4",
-      "img": "./src/assets/productos/calcio_vaca.jpg",
+      "img": "./public/productos/calcio_vaca.jpg",
       "name": "Calciomic Sol Iny",
       "price": "17"
     },
     {
       "id": "5",
-      "img": "./src/assets/productos/CALFOS2_vaxa.jpg",
+      "img": "./public/productos/CALFOS2_vaxa.jpg",
       "name": "Calfoz Sol Inyec",
       "price": "11.50"
     },
     {
       "id": "6",
-      "img": "./src/assets/productos/bovifor_vaca.jpg",
+      "img": "./public/productos/bovifor_vaca.jpg",
       "name": "Bovifort Sol Inyect",
       "price": "39"
     },
     {
       "id": "7",
-      "img": "./src/assets/productos/bovilis_vaca.jpg",
+      "img": "./public/productos/bovilis_vaca.jpg",
       "name": "Brucella Abortus RB51",
       "price": "16.50"
     },
     {
       "id": "8",
-      "img": "./src/assets/productos/brecelei_vaca.jpg",
+      "img": "./public/productos/brecelei_vaca.jpg",
       "name": "Brucelmiq - 10D",
       "price": "24.20"
     },
     {
       "id": "9",
-      "img": "./src/assets/productos/calbos_vaca.jpg",
+      "img": "./public/productos/calbos_vaca.jpg",
       "name": "Complex Sel - 250Ml",
       "price": "31"
     },
     {
       "id": "10",
-      "img": "./src/assets/productos/calcio_vaca.jpg",
+      "img": "./public/productos/calcio_vaca.jpg",
       "name": "Calciomic Sol Iny",
       "price": "17"
     },
     {
       "id": "11",
-      "img": "./src/assets/productos/CALFOS2_vaxa.jpg",
+      "img": "./public/productos/CALFOS2_vaxa.jpg",
       "name": "Calfoz Sol Inyec",
       "price": "11.50"
     },
     {
       "id": "12",
-      "img": "./src/assets/productos/bovifor_vaca.jpg",
+      "img": "./public/productos/bovifor_vaca.jpg",
       "name": "Bovifort Sol Inyect",
       "price": "39"
     }

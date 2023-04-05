@@ -101,12 +101,14 @@ export default function Cusos() {
             </StyleH1>
           </StyleCol>
         </Row>
-        <Row
-          as={motion.div}
-          variants={textAnimateRight}
-          className="justify-content-end"
-        >
-          <Col xs={12} md={4} lg={3}>
+        <Row className="justify-content-end">
+          <Col
+            as={motion.div}
+            variants={textAnimateRight}
+            xs={12}
+            md={4}
+            lg={3}
+          >
             <CardInfo
               img={Img}
               title="Gestión de Agronegocios"
@@ -114,7 +116,13 @@ export default function Cusos() {
               modalidad="On Line"
             ></CardInfo>
           </Col>
-          <Col xs={12} md={4} lg={3}>
+          <Col
+            as={motion.div}
+            variants={textAnimateRight}
+            xs={12}
+            md={4}
+            lg={3}
+          >
             <CardInfo
               img={Img1}
               title="Producción de Ganado Vacuno"
@@ -122,7 +130,13 @@ export default function Cusos() {
               modalidad="Hibrido"
             ></CardInfo>
           </Col>
-          <Col xs={12} md={4} lg={3}>
+          <Col
+            as={motion.div}
+            variants={textAnimateRight}
+            xs={12}
+            md={4}
+            lg={3}
+          >
             <CardInfo
               img={Img2}
               title="Vacunación Eficiente"
@@ -130,8 +144,14 @@ export default function Cusos() {
               modalidad="Presencial"
             ></CardInfo>
           </Col>
-          <StyleCola xs={12} md={12} lg={12}>
-            <ButtonRow text="Ver todos los cursos" to="#"></ButtonRow>
+          <StyleCola
+            as={motion.div}
+            variants={textAnimateLeft}
+            xs={12}
+            md={12}
+            lg={12}
+          >
+            <ButtonRow text="Ver todos los cursos" to="/cursos"></ButtonRow>
           </StyleCola>
         </Row>
       </motion.div>
